@@ -1,0 +1,21 @@
+@import "nav.css";
+@import "imgPrincipal.css";
+@import "secaoImagens.css";
+@import "style.css";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(240, 211, 235);
+    margin-top: 24px;
+}
+
+
+body{
+    font-size: 48px;
+}

@@ -1,0 +1,11 @@
+.secaoImagens{
+    display: flex;
+    gap: 45px;
+    margin-top: 48px;
+    justify-content: center;
+}
+.secaoImagens_img{
+    width: 250px;
+    height: 250px;
+
+}
